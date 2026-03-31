@@ -94,7 +94,6 @@ A modern, user-friendly web application for creating professional resumes with e
 
 ## 📞 Contact
 
-- **Project Link**: [https://github.com/your-username/resume-craft](https://github.com/your-username/resume-craft)
 - **Live Demo**: [https://resume-craft-tawny.vercel.app/](https://resume-craft-tawny.vercel.app/)
 
 ---
